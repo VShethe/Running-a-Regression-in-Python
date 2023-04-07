@@ -73,5 +73,6 @@ import statsmodels.api as sm
 import matplotlib.pyplot as plt
 ```
 
+![image](https://user-images.githubusercontent.com/128286364/230551058-9f598b4f-145b-4b43-94f6-fd4f0b8e2573.png)
 
 
